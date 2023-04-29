@@ -113,7 +113,7 @@ user_pref("geo.provider.use_gpsd", false);
 user_pref("geo.provider.use_geoclue", false);
 user_pref("intl.accept_languages", "en-US, en");
 user_pref("javascript.use_us_english_locale", true);
-user_pref("keyword.enabled", false);
+user_pref("keyword.enabled", true);
 user_pref("media.autoplay.default", 5);
 user_pref("media.autoplay.enabled", false);
 user_pref("media.eme.enabled", false);
